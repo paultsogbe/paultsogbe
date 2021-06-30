@@ -7,6 +7,10 @@ https://paul-tripadvisor.netlify.app/
 
 Deliveroo
 https://github.com/paultsogbe/deliveroo-backend
+https://github.com/paultsogbe/deliveroo-frontend
+https://paul-deliveroo.netlify.app/
+
+Vinted
 **paultsogbe/paultsogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
