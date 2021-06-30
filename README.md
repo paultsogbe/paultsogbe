@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-https://github.com/paultsogbe
+Tripadvisor
+https://github.com/paultsogbe/tripadvisor
 https://paul-tripadvisor.netlify.app/
 **paultsogbe/paultsogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
