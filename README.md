@@ -12,7 +12,7 @@ https://paul-deliveroo.netlify.app/
 
 Vinted
 https://github.com/paultsogbe/vinted-backend
-https://github.com/paultsogbe/vinted-front
+https://github.com/paultsogbe/vinted-frontend
 https://paul-vinted.netlify.app/
 **paultsogbe/paultsogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
