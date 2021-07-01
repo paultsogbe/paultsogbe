@@ -14,6 +14,11 @@ Vinted
 https://github.com/paultsogbe/vinted-backend
 https://github.com/paultsogbe/vinted-frontend
 https://paul-vinted.netlify.app/
+
+Marvel
+https://paul-marvel.netlify.app/
+https://github.com/paultsogbe/marvel-frontend
+https://github.com/paultsogbe/marvel-backend
 **paultsogbe/paultsogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
