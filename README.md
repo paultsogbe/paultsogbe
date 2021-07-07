@@ -9,7 +9,7 @@ I worked in the telecommuication industry before 2020 and then I discovered my p
 
 In 2020-2021 I followed a number of different trainings at [OpenClassrooms](https://openclassrooms.com/fr/), [Codecademy](https://www.codecademy.com/), [freeCodeCamp](https://www.freecodecamp.org/learn/) and finally I decided to go even further by joining a Bootcamp at [Le Reacteur](https://www.lereacteur.io/) to become a Full-Stack Web & Mobile Developer.
 
-Now i am ready for my first professional opportunity as a Full-Stack JavaScript developer!
+Now I am ready for my first professional opportunity as a Full-Stack JavaScript developer!
 
 ## 🔗 Stacks I work with
 
