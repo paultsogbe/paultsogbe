@@ -1,6 +1,6 @@
 ### Hi, I am Paul ! 🌞
 
-👨🏿‍💻 **About me**
+## 👨🏿‍💻 About me
 
 👀 **Looking for new opportinties - 6 months internship or first job? 
 ✨ **Full-Stack JavaScript developer**
