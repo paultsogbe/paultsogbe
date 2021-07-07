@@ -28,7 +28,7 @@ Now I am ready for my first professional opportunity as a Full-Stack JavaScript 
 ✘ Notion  
 ✘ Figma
 
-## 👌🏻 My best projects
+## 👌🏿 My best projects
 
 ### ReactJS 
 
