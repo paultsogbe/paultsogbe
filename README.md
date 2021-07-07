@@ -1,15 +1,6 @@
 ### Hi, I am Paul ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... React
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... Vue.js
-- 🤔 I’m looking for help with ... Finding my first job as e developer
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/paul-tsogbe)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I like hats
 
 <!--
 Tripadvisor
@@ -35,6 +26,16 @@ Airbnb
 https://github.com/paultsogbe/react-native-airbnb
 **paultsogbe/paultsogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... React
+- 🌱 I’m currently learning ... Vue.js
+- 👯 I’m looking to collaborate on ... Vue.js
+- 🤔 I’m looking for help with ... Finding my first job as e developer
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/paul-tsogbe)
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... I like hats
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
