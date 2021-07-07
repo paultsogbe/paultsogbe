@@ -1,4 +1,4 @@
-### Hi, I am Paul ! 🌞
+### Hi, I am Paul ! 🔭
 
 ## 👨🏿‍💻 About me
 
