@@ -2,14 +2,16 @@
 
 ## 👨🏿‍💻 About me
 
-👀 **Looking for new opportinties - 6 months internship or first job? 
+👀 **Looking for new opportinties 
 ✨ **Full-Stack JavaScript developer**
 
 I worked in the telecommuication industry before 2020 and then I discovered my passion for ✨ **code** ! 
 
 In 2020-2021 I followed a number of different trainings at [OpenClassrooms](https://openclassrooms.com/fr/), [Codecademy](https://www.codecademy.com/), [freeCodeCamp](https://www.freecodecamp.org/learn/) and finally I decided to go even further by joining a Bootcamp at [Le Reacteur](https://www.lereacteur.io/) to become a Full-Stack Web & Mobile Developer.
 
-Now I am ready for my first professional opportunity as a Full-Stack JavaScript developer!
+After that I worked at a start-up called [Istya] (https://istya.co/), where I developed in complete autonomy their mobile application using React Native and their web platform using React.
+
+Now I am ready for my next professional opportunity as a Full-Stack JavaScript developer!
 
 ## 🔗 Stacks I work with
 
