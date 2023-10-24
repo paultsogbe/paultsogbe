@@ -18,17 +18,24 @@ Now I am ready for my next professional opportunity as a Full-Stack JavaScript d
 ✘ JavaScript  
 ✘ ReactJS  
 ✘ React Native  
-✘ NodeJS  
+✘ NodeJS 
+✘ Web3
+✘ Amplify
+✘ Java
 ✘ HTML5  
-✘ CSS3  
+✘ CSS3 
+✘ Tailwind
+✘ BootStrap
 ✘ GIT  
 ✘ Heroku  
-✘ MongoDB  
+✘ MongoDB
+✘ SQl
 ✘ Netlify  
 ✘ Postman  
 ✘ ExpressVisual Studio Code  
 ✘ Notion  
 ✘ Figma
+
 
 ## 👌🏿 My best projects
 
