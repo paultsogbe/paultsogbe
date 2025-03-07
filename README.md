@@ -16,27 +16,51 @@ Now I am ready for my next professional opportunity as a Full-Stack JavaScript d
 
 ## 🔗 Stacks I work with
 
+FRONT-END
+
 ✘ JavaScript          
 ✘ ReactJS  
-✘ React Native        
-✘ NodeJS 
-✘ Web3                
-✘ Amplify/AWS
-✘ Java                
-✘ HTML5  
-✘ CSS3                
+✘ React Native
+x Expo
+x Skia
+x Reanimated
+x TypeScript
+x Angular
+✘ HTML5 
+✘ CSS3 
 ✘ Tailwind
-✘ BootStrap           
-✘ GIT  
-✘ Heroku              
-✘ MongoDB
-✘ SQL                 
-✘ Netlify  
-✘ Postman             
-✘ Express
-✘ Visual Studio Code  
-✘ Notion  
+✘ BootStrap
+
+BACK-END
+x Express
+✘ NodeJS 
+x PHP
+x Symfony
+x Java
+x MongoDB
+x SQL
+
+DEVOPS
+x Docker
+✘ Heroku 
+✘ Netlify 
+x Aws
+x Amplify
+x Google Cloud
+
+OUTILS
+✘ GIT
 ✘ Figma
+x CI/CD
+x Firebase
+
+WEB3 & API
+x Blockchain
+x NFT
+x Smart Contracts
+✘ APIWeb3                
+✘ API REST
+               
 
 
 ## 👌🏿 My best projects
