@@ -11,7 +11,7 @@
 
 
 ## 🚀 Projects
-##  Contrats pour Jeux Web3 / Metaverse [ERC20  – Token fongible (comme USDT, DAI…),ERC721 – NFT (comme les collectibles uniques), ERC1155  – Token mixte (NFT + fongibles, utilisé par OpenSea)]
+##  Contrats pour Jeux Web3 / Metaverse [ERC20  – Token fongible (comme USDT, DAI…),ERC721 – NFT (comme les collectibles uniques), ERC1155  – Token mixte (NFT + fongibles, utilisé par OpenSea) etc..]
 - 🎮 **Web3 Smart Contracts** → [Zoo Game] (netlify) - https://francezoogamespaul.netlify.app 
 - 👗 **Vinted Clone** → [ ReactJS , NodeJS, MongoDB HTML5 & CSS3] (netlify) https://paul-vinted.netlify.app/
 - 🛌 **Tripadvisor** → [ HTML5 & CSS3]  (netlify) https://paul-tripadvisor.netlify.app/
