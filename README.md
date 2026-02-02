@@ -3,19 +3,32 @@
 
 # 👋🏿 Hi, I'm Paul Tsogbe
 
-👨🏿‍💻 Full-Stack JavaScript Developer | Web & Mobile | Web3 Enthusiast  
-🔭 I’ve built apps using React, React Native, Node.js, MongoDB, Solidity...  
+Full-Stack Developer (React, React Native, TypeScript, Node.js)** — Web & Mobile | Web3 (Solidity)  
+🔭
+I build **product-oriented web and mobile applications** with a strong focus on **UX, performance, scalability, and code quality**.  
+I’m experienced with **API integration, MongoDB/SQL, CI/CD and cloud deployments**, and I also enjoy building **Web3 apps** (smart contracts + dApps).
+
 📍 Based in Paris – Open to remote and international opportunities 
-🌐  👀 Portfolio:  https://paultsogbe-dev.netlify.app/
+
+🌐  👀 Portfolio:  https://paultsogbe-dev1.netlify.app/
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/paultsogbe) | [GitHub](https://github.com/paultsogbe)
 
 
 ## 🚀 Projects
-##  Contrats pour Jeux Web3 / Metaverse [ERC20  – Token fongible (comme USDT, DAI…),ERC721 – NFT (comme les collectibles uniques), ERC1155  – Token mixte (NFT + fongibles, utilisé par OpenSea) etc..]
-- 🎮 **Web3 Smart Contracts** → [Zoo Game] (netlify) - https://francezoogamespaul.netlify.app 
-- 👗 **Vinted Clone** → [ ReactJS , NodeJS, MongoDB HTML5 & CSS3] (netlify) https://paul-vinted.netlify.app/
-- 🛌 **Tripadvisor** → [ HTML5 & CSS3]  (netlify) https://paul-tripadvisor.netlify.app/
-- 🏠 **Airbnb Clone** (React Native) → [Expo,Reanimated, Skia] (front) https://github.com/paultsogbe/react-native-airbnb
+- 🎮 **Zoo Game — Web3 Smart Contracts & dApp**  
+  Solidity smart contracts + dApp integration  
+  Demo: https://francezoogamespaul.netlify.app
+
+- 👗 **Vinted Clone — Full-Stack Marketplace**  
+  React + Node.js API + MongoDB  
+  Demo: https://paul-vinted.netlify.app/
+
+- 🏠 **Airbnb Clone — React Native (Mobile UI)**  
+  Expo + Reanimated + Skia  
+  Repo: https://github.com/paultsogbe/react-native-airbnb
+
+- 🛌 **Tripadvisor — HTML/CSS Integration**  
+  Demo: https://paul-tripadvisor.netlify.app/
 
  
 ## 🔗 Stacks I work with
@@ -38,31 +51,41 @@ x Angular
 BACK-END
 x Express
 ✘ NodeJS 
-x PHP
-x Symfony
-x Java
-x MongoDB
-x SQL
+✘ API REST
+✘ Serverless
 
-DEVOPS
+
+
+
+Databases
+MongoDB, SQL
+
+ Cloud & CI/CD  
 x Docker
 ✘ Heroku 
 ✘ Netlify 
 x Aws
+ GCP  
 x Amplify
-x Google Cloud
-
-OUTILS
+✘ IA
 ✘ GIT
 ✘ Figma
-x CI/CD
 x Firebase
+✘ GitHub Actions
 
 WEB3 & API
-x Blockchain
-x NFT
+✘ Solidity
+x Cede SDK : Librairie (frontend)
+x Cede Hub : Service/API (backend)
+x NFTs
 x Smart Contracts
-✘ APIWeb3                
+✘ MetaMask
+✘ Ethers.js/Web3.js               
 ✘ API REST
+
+Testing:
+Jest
+E2E
+React Testing Library
                
 
